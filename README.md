@@ -10,3 +10,5 @@ Clone or download this repository and then import package provided into your new
 
 https://medium.com/@allencoded/unity-tilemaps-and-storing-individual-tile-data-8b95d87e9f32 - for the solution.
 https://alexs-assets.itch.io/16x16-outdoors-tileset - for the tileset spritesheet.
+
+### Unity Version 2018.3.6f1
